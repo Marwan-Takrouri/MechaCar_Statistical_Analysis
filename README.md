@@ -21,17 +21,17 @@ As the below screen link to the our Output of the Mechacar prototype design comp
 •	With a P-value of 5.35 e-11 this is not a zero slope and therefore we will not reject our null hypothesis.
 •	With a R squared of 71% this means more than 70% (Strong) of variability of the prototype are explained with our linear regression, which means this we are not predicting effectively through this linear model.  This high R squared value leads us to what is called specification bias , we will need to need to add non-linear model to rectify this and look more precisely in the data .
 
-![Alt text]("C:\Users\monit\OneDrive\Desktop\R_Analysis\MechaCar\Deliverable1 dataframelum+pValue+l-regression.png")
-![Alt text](Image URL)
+![Alt text](https://github.com/Marwan-Takrouri/MechaCar_Statistical_Analysis/blob/main/Deliverable1%20dataframelum%2BpValue%2Bl-regression.png)
+
 
 Deliverable 2:
 # Summary Statistics on Suspension Coils
 
 We have included in the below two screen links the outcome of analysing the data on the CSV file of the suspension coil performance tests including the mean, median, variance, and standard deviation of the suspension coil’s Pound per square inch.
 
-![name-of-you-image]( "C:\Users\monit\OneDrive\Desktop\R_Analysis\MechaCar\Deliverable-2.png")
+![Alt text](https://github.com/Marwan-Takrouri/MechaCar_Statistical_Analysis/blob/main/Deliverable-2.png)
 
-![name-of-you-image](" "C:\Users\monit\OneDrive\Desktop\R_Analysis\MechaCar\Deliverable-2-2.png")
+![Alt text](https://github.com/Marwan-Takrouri/MechaCar_Statistical_Analysis/blob/main/Deliverable-2-2.png)
 
 
 Outcome:
@@ -44,15 +44,15 @@ Determining if the PSI across all manufacturing lots 1,2 and 3 is statistically 
 
 Outcome
 As we can see below In the screen shot from the analysis we have find out that the P-value for the summary on all lots is 0.06 which comes higher than 0.05 and satisfies the analysis therefore we don’t have enough evidence to reject the null hypothesis.
-![name-of-you-image]( "C:\Users\monit\OneDrive\Desktop\R_Analysis\MechaCar\Deliverable-3-1.png")
+![Alt text](https://github.com/Marwan-Takrouri/MechaCar_Statistical_Analysis/blob/main/Deliverable-3-1.png)
 
 The below three screen shots shows the summary of the t-test results across all manufacturing lots and for each lot
 
-![name-of-you-image]( "C:\Users\monit\OneDrive\Desktop\R_Analysis\MechaCar\Deliverable-3-LOT#1.png")
+![Alt text]( https://github.com/Marwan-Takrouri/MechaCar_Statistical_Analysis/blob/main/Deliverable-3-LOT%231.png)
 
-![name-of-you-image]( "C:\Users\monit\OneDrive\Desktop\R_Analysis\MechaCar\Deliverable-3-LOT#2.png")
+![Alt text](https://github.com/Marwan-Takrouri/MechaCar_Statistical_Analysis/blob/main/Deliverable-3-LOT%232.png)
 
-![name-of-you-image]( "C:\Users\monit\OneDrive\Desktop\R_Analysis\MechaCar\Deliverable-3-LOT#3.png")
+![Alt text](https://github.com/Marwan-Takrouri/MechaCar_Statistical_Analysis/blob/main/Deliverable-3-LOT%233.png)
 
 For Lots 1 and Lots 2 with P values of 1 and 0.6  is higher than 0.05 , therefore we don’t have enough evidence to reject the null hypothesis .
 As for LOT 3 the P value of 0.04 is less than 0.05 therefore we will have to Reject the null hypothesis , 
