@@ -80,5 +80,7 @@ Multiple linear regression, because we want to measure and know the below :
 2.	The value of the dependent variable ( Mechacar)  at a certain value of the independent variables (Market competition ).
 
 •	What data is needed to run the statistical test?
-        We will need Continuous data .
+      
+      
+      We will need Continuous data .
 
